@@ -2,12 +2,38 @@
     margin: 0 auto;
     width: 80%;
     background-color: lightsteelblue;
+    position: relative;
+    border: steelblue ridge 5px;
+}
+#power {
+    text-align: center;
+    width: 30%;
+    padding: 30px;
+    font-size: x-large;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#yoda {
+    position: absolute;
+    bottom: 15px;
+    right: -33%;
+}
+#vader {
+    position: absolute;
+    top: 83px;
+    right: -25%;
+    z-index: 2;
+}
+#fear {
+    margin: 15px;
+    width: 70%;
 }
 h1 {
     text-align: center;
     background-color: lightseagreen;
 }
 img {
-    border: goldenrod double 4px;
+    border: rgb(75, 18, 209) solid 2px;
     margin: 0 35%;
 }
