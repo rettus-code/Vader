@@ -1,0 +1,13 @@
+#body {
+    margin: 0 auto;
+    width: 80%;
+    background-color: lightsteelblue;
+}
+h1 {
+    text-align: center;
+    background-color: lightseagreen;
+}
+img {
+    border: goldenrod double 4px;
+    margin: 0 35%;
+}
