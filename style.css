@@ -18,6 +18,14 @@
            width: 85%;
         }
      }
+    @media screen and (max-width: 899px) {
+        #yoda {
+           width: 85%;
+        }
+        #vader {
+           width: 85%;
+        }
+     }
     #vader {
     margin: auto;
     margin-top: 0px;
@@ -31,6 +39,7 @@
 #fear {
     padding: 1%;
     padding-left: 4%;
+    padding-right: 4%;
 }
 h1 {
     text-align: center;
