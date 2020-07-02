@@ -10,6 +10,14 @@
     .container {
         margin: auto;
     }
+    @media screen and (min-width: 900px) {
+        #yoda {
+           width: 85%;
+        }
+        #vader {
+           width: 85%;
+        }
+     }
     #vader {
     margin: auto;
     margin-top: 0px;
